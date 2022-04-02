@@ -10,3 +10,9 @@
 - 3주차 (과제, 답안, 강의자료)
 - 4주차 (과제, 강의자료)
 ---
+링크
+- 신입생 WebPython 스터디 노션<br>
+  https://2022tgwing.notion.site/2022tgwing/2022-T-G-WinG-Newbie-Program-8f17b3eff7974b96b39c03f7e8805280
+- 신입생 WebPython Github<br>
+  https://github.com/TG-WinG/2022_Web-Python_Education
+---
